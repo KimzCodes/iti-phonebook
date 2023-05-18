@@ -1,0 +1,9 @@
+.wrapper {
+  background: rgba(13, 13, 13, 0.8);
+  z-index: 1;
+  position: fixed;
+  inset: 0;
+}
+
+.test {
+}

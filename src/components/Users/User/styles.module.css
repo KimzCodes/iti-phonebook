@@ -1,0 +1,26 @@
+.box {
+  margin-bottom: 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+.box ul {
+  padding: 10px;
+  list-style: none;
+  border: 1px solid #ccc;
+}
+
+.deleteBtn {
+  position: absolute;
+  top: -3px;
+  right: -3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  cursor: pointer;
+}
